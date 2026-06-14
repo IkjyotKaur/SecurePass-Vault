@@ -9,7 +9,7 @@
 GitHub Repository
 
 ```bash
-git clone https://github.com/IkjyotKaur/SecurePass.git
+git clone https://github.com/IkjyotKaur/SecurePass-Vault.git
 cd SecurePass
 ```
 
@@ -69,7 +69,7 @@ SecurePass/
 Clone the repository:
 
 ```bash
-git clone https://github.com/IkjyotKaur/SecurePass.git
+git clone https://github.com/IkjyotKaur/SecurePass-Vault.git
 cd SecurePass
 ```
 
